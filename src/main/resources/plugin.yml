@@ -1,0 +1,7 @@
+main: de.waldperlachfabi.LunarClientHook
+name: onlyLunarClient
+version: '1.0'
+description: Only Lunar Client join
+api-version: 1.19
+author: WaldperlachFabi
+depend: [LunarClient-API]
